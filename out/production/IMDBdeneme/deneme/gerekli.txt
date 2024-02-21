@@ -1,0 +1,28 @@
+popülariteye göre azalan
+hasılata göre azalan
+
+yetişkin seçeneği
+şu tarihte
+şu tarihten eski
+şu tarihten yeni
+türe göre
+*    28 = action
+*    12 = adventure
+*    16 = animations
+*    35 = komedi
+*    80 = suç
+*    99 = belgesel
+*    18 = drama
+*    10751 = aile
+*    14 = fantasy
+*    36 = history
+*    27 = horror
+*    10402 = müzik
+*    9648 = gizem
+*    10749 = romance
+*    878 = science fiction
+*    53 = thriller
+*    10752 = war
+*    37 = western
+
+    (%2C ile ayır)
